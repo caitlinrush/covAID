@@ -3,7 +3,7 @@
 A COVID19 prototype created in Figma for Human Computer Interaction Assignment 2
 
 ***
-Figma Link:
+Figma Link: http://bit.ly/3cdKr2K
 
 Video Walkthrough:
 ***
