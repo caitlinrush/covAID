@@ -1,4 +1,4 @@
-<div align="center"> **covAID**
+#covAID
 <div align="center">A COVID19 prototype created in Figma for Human Computer Interaction Assignment 2
 
 ***
