@@ -4,13 +4,14 @@ This application, created in Figma, is designed for people to connect in the com
 
 ### Features
 
-- Location enabled
+- **new** Location enabled
 - Region specific statistics
 - Informative guides
-- Symptom tracking
+- **new** Clear and easy to understand UI
+- **new** Symptom tracking
 - Request help through live chat
 - Sign up to volunteer
-- Language accessibility
+- **new** Language accessibility
 
 
 ***
