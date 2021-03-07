@@ -1,6 +1,17 @@
 # covAID
 
-A COVID19 prototype created in Figma for Human Computer Interaction Assignment 2
+This application, created in Figma, is designed for people to connect in the community during the pandemic. Seniors, or those in need, can request help and be automatically connected with a local volunteer. Similarly, users can sign up to be a volunteer to assist others nearby. This app also features informative guides on vaccine distribution, symptoms, and statistics depending on the region. If the user is experiencing symptoms, they can keep a log of it in the tracker. Also, there is an option to select different languages to make the application more accessible.
+
+## Features
+
+- Location enabled
+- Region specific statistics
+- Informative guides
+- Symptom tracking
+- Request help through live chat
+- Sign up to volunteer
+- Language accessibility
+
 
 ***
 Figma Link: http://bit.ly/3cdKr2K
