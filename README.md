@@ -1,8 +1,8 @@
 # covAID
 
-This application, created in Figma, is designed for people to connect in the community during the pandemic. Seniors, or those in need, can request help and be automatically connected with a local volunteer. Similarly, users can sign up to be a volunteer to assist others nearby. This app also features informative guides on vaccine distribution, symptoms, and statistics depending on the region. If the user is experiencing symptoms, they can keep a log of it in the tracker. Also, there is an option to select different languages to make the application more accessible.
+This application, created in Figma, is designed for people to connect in the community during the pandemic. Seniors, or those in need, can request help and be automatically connected with a local volunteer. Similarly, users can sign up to be a volunteer to assist others nearby. This app also features informative guides on vaccine distribution, symptoms, testing, and statistics depending on the region. If the user is experiencing symptoms, they can keep a log of it in the tracker. Also, there is an option to select different languages to make the application more accessible.
 
-## Features
+### Features
 
 - Location enabled
 - Region specific statistics
