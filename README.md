@@ -17,7 +17,7 @@ This application, created in Figma, is designed for people to connect in the com
 ***
 Figma Link: http://bit.ly/3cdKr2K
 
-Video Walkthrough:
+Video Walkthrough: https://youtu.be/4pkQcda191o
 ***
 
 ![1](https://user-images.githubusercontent.com/54964518/110229279-4cb58e00-7ed6-11eb-84a7-e656a59a2e39.png)
